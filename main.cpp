@@ -1,5 +1,5 @@
 #include <iostream>
-#include "paperino.h"
+#include "lib.h"
 using namespace std;
 
 int main() {
