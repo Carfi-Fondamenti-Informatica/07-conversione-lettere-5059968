@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    char a= 'c';
+    char a;
     cin>>a;
     if ((condizione(a)==true)) {
         cout<<a<<endl;
