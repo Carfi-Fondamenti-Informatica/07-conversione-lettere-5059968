@@ -3,10 +3,10 @@
 using namespace std;
 
 int main() {
-    char b= 'c';
-    cin>>b;
-    if ((condizione(b)==true)) {
-        cout<<conversione(b)<<endl;
+    char a= 'c';
+    cin>>a;
+    if ((condizione(a)==true)) {
+        cout<<a<<endl;
     } else {
         cout<<"errore"<<endl;
     }
