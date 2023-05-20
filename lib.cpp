@@ -1,4 +1,4 @@
-#include "paperino.h"
+#include "lib.h"
 
 bool condizione (char&a){
     if((a>='a' and  a<='z') or (a>='A' and a<='Z')){
